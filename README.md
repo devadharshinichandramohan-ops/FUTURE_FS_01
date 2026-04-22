@@ -45,7 +45,7 @@ A responsive personal portfolio website showcasing projects, skills, and experie
 
 ## Live
 
-https:
+https:https://devadharshinichandramohan-portfolio.netlify.app/
 
 ---
 
